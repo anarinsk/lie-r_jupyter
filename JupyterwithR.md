@@ -1,4 +1,4 @@
-**Jupyter &#43;  R**
+**Jupyter &#43; + R**
 
 2018-09-05 
 Jun Sok Huhh | :house:[lostineonomics.com](https://anarinsk.github.io/)
@@ -53,5 +53,6 @@ IRkernel::installspec()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzY0MTYyNiwzOTQ4ODA2MjZdfQ==
+eyJoaXN0b3J5IjpbLTgyNjk0NzE0OSwyMDY3NjQxNjI2LDM5ND
+g4MDYyNl19
 -->
